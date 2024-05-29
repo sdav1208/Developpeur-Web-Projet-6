@@ -1,8 +1,6 @@
 # Portfolio-architecte-sophie-bluel
 
-Code du projet 6 d'intégrateur web.
+Récupérer dynamiquement les données des travaux via l’API
+Après avoir cloné le REPO de l’API → voir les informations nécessaires pour les différentes routes grâce au document Swagger.
+récupérer les projets avec un GET  "fetch par default est un GET" et les afficher dynamiquement en JS 
 
-## Information pour le lancer le code
-
- - Lancer le backend depuis votre terminal en suivant les instruction du fichier ReadMe.
- - Si vous désirez afficher le code du backend et du frontend, faites le dans 2 instances de VSCode différentes pour éviter tout problème
