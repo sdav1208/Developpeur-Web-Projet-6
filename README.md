@@ -2,6 +2,6 @@
 
  Projet 6 d'intégrateur web 
  
- code du FRONTEND
+ code du FrontTend
 
 
